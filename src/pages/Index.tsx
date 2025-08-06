@@ -60,7 +60,7 @@ const Index = () => {
         {/* Header */}
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-6xl font-bold mb-4 bg-gradient-to-r from-primary to-primary-glow bg-clip-text text-transparent">
-            Economic Insight Dashboard
+            Business Insight Dashboard
           </h1>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto mb-6">
             Upload your economic data and get AI-powered insights for informed decision making
