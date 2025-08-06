@@ -42,8 +42,8 @@ date,inflation,interest_rate,forex_reserves,transactions
 - `date`: Date in YYYY-MM format
 - `inflation`: Inflation rate as percentage
 - `interest_rate`: Interest rate as percentage  
-- `forex_reserves`: Foreign exchange reserves in USD
-- `transactions`: Transaction volume in USD
+- `forex_reserves`: Foreign exchange reserves in IDR
+- `transactions`: Transaction volume in IDR
 
 ## Getting Started
 
