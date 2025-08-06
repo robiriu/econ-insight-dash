@@ -83,7 +83,7 @@ export default function Dashboard() {
               Back to Upload
             </Button>
             <h1 className="text-3xl font-bold bg-gradient-to-r from-primary to-primary-glow bg-clip-text text-transparent">
-              Economic Dashboard
+              Business Dashboard
             </h1>
             <p className="text-muted-foreground">
               Analysis of economic indicators and trends
