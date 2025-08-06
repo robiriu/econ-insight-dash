@@ -165,14 +165,3 @@ src/
 ## License
 
 This project is licensed under the MIT License.
-
-## Support
-
-For support and questions:
-- Check the [Issues](https://github.com/your-repo/issues) page
-- Review the documentation
-- Contact the development team
-
----
-
-Built with ❤️ using React and modern web technologies.
