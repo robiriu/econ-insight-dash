@@ -1,4 +1,4 @@
-# Economic Insight Dashboard
+# Business Insight Dashboard
 
 A modern React-based economic data analysis platform that provides AI-powered insights for economic indicators. Built with React, TypeScript, Tailwind CSS, and Recharts.
 
